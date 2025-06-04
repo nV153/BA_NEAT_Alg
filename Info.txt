@@ -1,0 +1,57 @@
+Informationen zur Abgabe
+-------------------------
+Im Ordner BA_Neat befindet sich der gesamte verwendete Quellcode. 
+Die Experiment-Ergebnisse sind im gleichen Ordner unter Excel_Results gespeichert. Beim Ausführen des Programms kann es passieren, dass diese Ergebnisse überschrieben werden.
+Die Klasse GeneticAlgUtil enthält in erster Linie Methoden zum Speichern und Visualisieren. Die Namensgebung stammt aus einer früheren Version, in der die Klasse noch für andere Funktionen verwendet wurde.
+
+Alle Ergebnisse wurden in der Datei vis.ipynb analysiert und visualisiert.
+Es kann sein das in vis.ipyn Fehler aufgrund Dateipfaden entstehen, die Ergebnisse sind aber als PDF-Datei identisch beigelegt.
+
+
+Anforderungen an die Umgebung
+-----------------------------
+Die Datei requirements.txt enthält alle Pakete, die in meiner Entwicklungsumgebung verwendet wurden. Allerdings sind darin möglicherweise Pakete enthalten, die nicht relevant sind.
+Ich empfehle daher, nur die wichtigsten Pakete manuell zu installieren:
+
+python==3.9
+pytorch 2.4.0+cu124  siehe https://pytorch.org/get-started/locally/ 
+neat-python==0.92
+numpy==1.26.4
+stable-baselines3==2.3.2
+gymnasium==0.29.1
+matplotlib==3.9.2
+pandas==2.2.2
+
+Für einige Funktionen, insbesondere in Kombination mit stable-baselines3, wird CUDA verwendet um die Trainingszeit zu beschleunigen.
+
+Falls weitere Pakete fehlen, sollte dies bei der Ausführung in der Programmierumgebung angezeigt werden.
+Ein häufiger Fehler bei der Gymnasium-Bibliothek (insbesondere bei Box2D) lässt sich beheben, indem eine virtuelle Umgebung (z.B. miniConda) verwendet wird, um Versionskonflikte zu vermeiden.
+
+
+Hardwareinformationen
+----------------------
+Um die Ergebnisse der Messungen besser nachvollziehen zu können, hier die Spezifikationen des verwendeten PCs:
+(Hinweis: Der PC ist bereits sehr alt.)
+
+Systeminformationen
+- Betriebssystem: Microsoft Windows 10 Home (Version 10.0.19045, Build 19045)
+- Systemtyp: x64-basierter PC
+
+Prozessor
+- Modell: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
+- Kerne: 4
+- Maximale Taktfrequenz: 3.6 GHz
+
+Arbeitsspeicher (RAM)
+- Gesamtkapazität: 16 GB (2 x 8 GB)
+- Hersteller: 1311
+- Taktfrequenz: 1600 MHz
+
+Grafikkarte
+- Modell: NVIDIA GeForce GTX 970
+
+Festplatten
+1. ADATA SP900: 128 GB
+2. WDC WD10EZEX-22BN5A0: 1 TB
+
+Falls es Fragen oder Probleme gibt, stehe ich gerne zur Verfügung.

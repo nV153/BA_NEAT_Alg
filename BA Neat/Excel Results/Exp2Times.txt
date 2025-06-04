@@ -1,0 +1,3 @@
+NEAT Run1 Generation 1000 Dauer: 16208.28 Sekunden
+
+NEAT Run2 Generation 10 Duration: 91.10 seconds

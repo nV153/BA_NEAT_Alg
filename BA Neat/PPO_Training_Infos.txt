@@ -1,0 +1,5 @@
+Modell geladen: False, Lernzeit: 11935.53 Sekunden
+Modell geladen: True, Lernzeit: 8999.08 Sekunden
+Modell geladen: True, Lernzeit: 34.57 Sekunden
+Modell geladen: True, Lernzeit: 32.42 Sekunden
+Model loaded: True, Training time: 50.43 seconds

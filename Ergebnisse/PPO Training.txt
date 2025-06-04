@@ -1,0 +1,101 @@
+Möchten Sie trainieren (t), spielen (s) oder Infos zum den verwendeteten Netzen aufrufen (info)? t
+Wie viele Timesteps soll trainiert werden (100000 ca. 4min)6000000
+Trainiere für 6000000 Timesteps
+Das Training wird ca. 240.0 Minuten dauern
+Created new model.
+Starte Training:
+Score at timestep 100000: -95.38498874095698
+Score at timestep 200000: 2.6285446312608793
+Score at timestep 300000: 120.40950165131123
+Score at timestep 400000: 116.91814275655622
+Score at timestep 500000: 107.14913780393915
+Score at timestep 600000: 112.26974076427477
+Score at timestep 700000: 256.3612170451032
+Score at timestep 800000: 237.2765286513655
+Score at timestep 900000: 86.60066800331586
+Score at timestep 1000000: 280.2838603312337
+Score at timestep 1100000: 280.8440511682186
+Score at timestep 1200000: 282.30812519304317
+Score at timestep 1300000: 282.772538611699
+Score at timestep 1400000: 286.53251546254046
+Score at timestep 1500000: 285.1972824926032
+Score at timestep 1600000: 281.50600343735266
+Score at timestep 1700000: 285.2440910866718
+Score at timestep 1800000: 282.6450860700701
+Score at timestep 1900000: 280.8598381090261
+Score at timestep 2000000: 280.615747256517
+Score at timestep 2100000: 282.862328281928
+Score at timestep 2200000: 279.8422673260378
+Score at timestep 2300000: 231.1227824003285
+Score at timestep 2400000: 248.8169498872875
+Score at timestep 2500000: 248.6251209953034
+Score at timestep 2600000: 175.8769105132239
+Score at timestep 2700000: 281.21932727242637
+Score at timestep 2800000: 280.62779271921926
+Score at timestep 2900000: 284.1095541667453
+Score at timestep 3000000: 279.8570725929268
+Score at timestep 3100000: 212.10596294236788
+Score at timestep 3200000: 282.04104341011947
+Score at timestep 3300000: 214.54821787337588
+Score at timestep 3400000: 285.77767407120217
+Score at timestep 3500000: 285.475389636491
+Score at timestep 3600000: 282.3781447027076
+Score at timestep 3700000: 282.62062853406167
+Score at timestep 3800000: 188.74694634740658
+Score at timestep 3900000: 284.3888317339061
+Score at timestep 4000000: 282.04576567687354
+Score at timestep 4100000: 280.9527015644499
+Score at timestep 4200000: 240.04365097957188
+Score at timestep 4300000: 279.7480268997213
+Score at timestep 4400000: 195.4056271860979
+Score at timestep 4500000: 279.0214503319736
+Score at timestep 4600000: 279.049635245982
+Score at timestep 4700000: 130.7042071226899
+Score at timestep 4800000: 279.76272792162916
+Score at timestep 4900000: 281.1619813193581
+Score at timestep 5000000: 278.5145150906577
+Score at timestep 5100000: 279.1088796700777
+Score at timestep 5200000: 217.41856065105375
+Score at timestep 5300000: 276.2439128659953
+Score at timestep 5400000: 280.2089292895818
+Score at timestep 5500000: 123.20521267886784
+Score at timestep 5600000: 276.62217997208626
+Score at timestep 5700000: 279.97800071298195
+Score at timestep 5800000: 281.02023161340463
+Score at timestep 5900000: 249.23366261037822
+Score at timestep 6000000: 277.0617708822582
+ 100% ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6,004,736/6,000,000  [ 3:18:40 < 0:00:00 , 268 it/s ]Lernzeit: 11935.53 Sekunden
+Saved new model.
+
+Kommentar: Die Endzeit ist ungenau da der PC ca. 40min im Standby war und somit Leerlauf hatte
+Möchten Sie trainieren (t), spielen (s) oder Infos zum den verwendeteten Netzen aufrufen (info)? t
+Wie viele Timesteps soll trainiert werden (100000 ca. 4min)2500000
+Trainiere für 2500000 Timesteps
+Das Training wird ca. 100.0 Minuten dauern
+Loaded existing model.
+Starte Training:
+Score at timestep 6100000: 277.9510566970715
+Score at timestep 6200000: 240.5151028089659
+Score at timestep 6300000: 165.62874131698263
+Score at timestep 6400000: 280.58901427256416
+Score at timestep 6500000: 275.9875878354045
+Score at timestep 6600000: 277.0950306339843
+Score at timestep 6800000: 242.6757564383669                                                                                                                                                                                      Score at timestep 6700000: 251.23140936522887
+Score at timestep 6900000: 277.48739626574053
+Score at timestep 7000000: 278.93127041159596
+Score at timestep 7100000: 277.36093474278744
+Score at timestep 7200000: 162.0381389086117
+Score at timestep 7300000: 248.7284550091215
+Score at timestep 7400000: 281.05318235130665
+Score at timestep 7500000: 276.0382669196599
+Score at timestep 7600000: 234.3702326593662
+Score at timestep 7700000: 278.11982337274884
+Score at timestep 7800000: 255.34120541775255
+Score at timestep 7900000: 278.55289393135297
+Score at timestep 8000000: 278.542776148848
+Score at timestep 8100000: 278.4569986775814
+Score at timestep 8200000: 243.26323821864716
+Score at timestep 8300000: 210.50903692303388
+Score at timestep 8400000: 254.82650150150593
+Score at timestep 8500000: 234.15480744522392
+ 100% ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2,506,752/2,500,000  [ 2:29:42 < 0:00:00 , 298 it/s ]
